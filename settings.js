@@ -61,16 +61,16 @@ global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94706540311']
-global.ownertag = '94706540311' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
+global.owner = ['94713163679']
+global.ownertag = '94713163679' //ur tag number
+global.botname = '📶 TIK TOK DAGAYA 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "📶 TIK TOK DAGAYA 📶" //ur sticker watermark packname
+global.author = "📶 TIK TOK DAGAYA📶" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94714188730'] //ur premium numbers
+global.premium = ['94713163679'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
